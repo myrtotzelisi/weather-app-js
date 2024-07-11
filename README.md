@@ -16,4 +16,4 @@ This project was inspired by a tutorial by [BroCode](https://www.youtube.com/wat
 
 ### Preview
 
-<img src='https://github.com/myrtotzelisi/weather-app-js/blob/main/WebsitePreview.gif' alt='Homepage preview of a nursery shop' width=50% />
+<img src='https://github.com/myrtotzelisi/weather-app-js/blob/main/WebsitePreview.gif' alt='Weather app preview' width=50% />
